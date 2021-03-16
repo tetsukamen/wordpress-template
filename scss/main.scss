@@ -1,0 +1,16 @@
+@charset "utf-8";
+
+// definitions
+@import "variables";
+
+/* 全ページ共通スタイル */
+@import "common";
+
+/* ヘッダー */
+@import "header";
+
+/* フッター */
+@import "footer";
+
+/* ホームページ */
+@import "home";
