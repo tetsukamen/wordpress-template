@@ -10,7 +10,7 @@ const paths = {
     'scss': 'scss/**/*.scss',
   },
   'dist': {
-    'css': 'html/wp-content/themes/theme-bones-master/library/css',
+    'css': 'html/wp-content/themes/theme-bones/library/css',
   }
 };
 
